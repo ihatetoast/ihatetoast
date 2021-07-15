@@ -1,18 +1,18 @@
 <h1 align="center">Well, hi! Servus! G'day! 👋 I'm Katy</h1>
 <h3 align="center">Mad about frontend development by day and greyhound adoption, bicycles, Procreate, and etymology by night</h3>
+
 - 🔭 I’m currently working on the following:
-  * a small social card app using React and React Hooks
-  * **Der Die Das Die D'oh!** (currently in user stories), a React app to practice German vocabulary (gender & plural forms)
-  * a portfolio using Gatsby and GraphQL
+  - a small social card app using React and React Hooks
+  - **Der Die Das Die D'oh!** (currently in user stories), a React app to practice German vocabulary (gender & plural forms)
+  - a portfolio using Gatsby and GraphQL
 - 🌱 I’m brushing up and refreshing React & Node
 - 🌱 I’m learning Vue, React Native
-- 
 - 📫 How to reach me **ihatetoast@gmail.com**
 - ⚡ Fun facts:
- * I can write cursive backwards better than forwards
- * I know German 🇩🇪 and am learning (slowly) Dutch 🇳🇱, Norwegian 🇳🇴 , & Spanish 🇪🇸
- * I am a dual 🇺🇸 - 🇦🇺 citizen
- * I used to have three pet tarantulas
+  - I can write cursive backwards better than forwards
+  - I know German 🇩🇪 and am learning (slowly) Dutch 🇳🇱, Norwegian 🇳🇴 , & Spanish 🇪🇸
+  - I am a dual 🇺🇸 - 🇦🇺 citizen
+  - I used to have three pet tarantulas
 - 💬 Ask me about greyhound adoption 
 - 😄 Pronouns: she/him sie/ihre
 
