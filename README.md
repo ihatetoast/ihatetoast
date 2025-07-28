@@ -2,25 +2,23 @@
 <h3 align="center">Mad about frontend development by day and greyhound adoption, bicycles, Procreate, and etymology by night</h3>
 
 - 🔭 I’m currently working on the following:
-  - a small social card app using React and React Hooks
   - **Der Die Das Die D'oh!** (currently in user stories), a React app to practice German vocabulary (gender & plural forms)
-  - a portfolio using Gatsby and GraphQL
-- 🌱 I’m brushing up and refreshing React & Node
-- 🌱 I’m learning Vue, React Native
+  - A talk timer for practicing giving a talk or speech when there is a limit (You know that person who's told to give a 5-min talk and it goes for 15? That soul needs a practice timer!)
+- 🌱 I’m always learning something about React
+- 🌱 I love making art with code and use Java (Processing App) as well as CSS to doodle
 - 📫 How to reach me **ihatetoast@gmail.com**
 - ⚡ Fun facts:
   - I can write cursive backwards better than forwards
-  - I know German 🇩🇪 and am learning (slowly) Dutch 🇳🇱, Norwegian 🇳🇴 , & Spanish 🇪🇸
+  - I know German 🇩🇪 and am learning (slowly) Dutch 🇳🇱, Norwegian 🇳🇴 , & French 🇫🇷
   - I am a dual 🇺🇸 - 🇦🇺 citizen
   - I used to have three pet tarantulas
+  - I take ballroom and partnership dance classes and can hold my own in the waltz, cha cha, hustle, and two-step.
 - 💬 Ask me about greyhound adoption 
-- 😄 Pronouns: she/him sie/ihre
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ihatetoast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ihatetoast" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cassidykaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cassidykaty" height="30" width="40" /></a>
-<a href="https://dribbble.com/ihatetoast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ihatetoast" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
