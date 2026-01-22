@@ -2,7 +2,8 @@
 <h2 align="center">Mad about frontend development by day and greyhound adoption, bicycles, Procreate, and etymology by night</h2>
 
 - 🔭 I’m currently working on the following:
-  - A quiz app for German capital cities
+  - Der Die Das Die D'oh! app for testing or reviewing German noun articles and plurals
+  - Ladybug calculator app that has Charley Harper style buttons (more css than js)
   - A showcase app for custom web components (will never end)
 - 🌱 I’m always learning something about React
 - 🌱 I'm finding time to learn Vue
